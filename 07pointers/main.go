@@ -16,6 +16,4 @@ func main() {
 
 	*onePointer = *onePointer + 1;
 	fmt.Println("Value of onePointer after adding 1 is: ", *onePointer, "and value of one is: ", one);
-
-	arrays
 }
